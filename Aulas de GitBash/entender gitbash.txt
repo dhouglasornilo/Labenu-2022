@@ -1,0 +1,8 @@
+clonar - git clone
+adicionar - git add .
+criar áreas de trabalho - git branch nome da branch
+checar areas de trabalho virtuais - git checkout
+preparar para envio - git commit - m
+enviar - git push
+atualizar - git pull
+echo >> "nome do arquivo" texto dentro do arquivo
